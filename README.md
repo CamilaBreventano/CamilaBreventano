@@ -8,8 +8,3 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ### modificando por q si 
 # CAMILA
 
-## languages
-- ingles
-- español
-- portugués
-  
